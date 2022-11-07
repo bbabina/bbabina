@@ -3,7 +3,7 @@
 I am a machine learning and deep learning practitioner and learner. I love solving problems, learning a lot in the process.
 
 
-- 🔭 I’m currently working as a Machine Learning Engineer Trainee at [**Fusemachines**](https://fusemachines.com/)
+- 🔭 I’m currently working as a Machine Learning Engineer at [**Fusemachines**](https://fusemachines.com/)
 - 🌱 I’m currently learning **Deep Learning**
 - 📫 How to reach me: **bbabina005@gmail.com**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning**, **Deep Learning** and **NLP**.
