@@ -4,7 +4,7 @@ I am a machine learning and deep learning practitioner and learner. I love solvi
 
 
 - 🔭 I’m currently working as a Machine Learning Engineer at [**Fusemachines**](https://fusemachines.com/)
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning** and **Natural Language Processing**
 - 📫 How to reach me: **bbabina005@gmail.com**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning**, **Deep Learning** and **NLP**.
  
