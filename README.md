@@ -1,7 +1,7 @@
 ### Hey👋, I'm Babina Banjara !:computer:
 
 I am a machine learning and deep learning practitioner and learner. I love solving problems and learning a lot in the process.
-
+When I'm not working on ML projects, you can often find me immersed in writing insightful articles on AI-related topics. 
 
 - 🔭 I’m currently working as a Machine Learning Engineer at [**Fusemachines**](https://fusemachines.com/)
 - 🌱 I’m currently learning **Large Language Models**
@@ -25,10 +25,6 @@ I am a machine learning and deep learning practitioner and learner. I love solvi
 
 <!-- [![Website](https://img.shields.io/website?label=bbabina&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.bbabina.com.np) -->
 
-  
 ![Profile Views](https://komarev.com/ghpvc/?username=bbabina&style=flat-square)
 
-<!---
-bbabina/bbabina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
