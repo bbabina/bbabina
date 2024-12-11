@@ -4,7 +4,7 @@ I am a machine learning and deep learning practitioner and learner. I love solvi
 When I'm not working on ML projects, you can often find me immersed in writing insightful articles on AI-related topics. 
 
 - 🔭 I’m currently working as a Machine Learning Engineer at [**Fusemachines**](https://fusemachines.com/)
-- 🌱 I’m currently learning **Large Language Models**
+- 🌱 I’m currently learning **Multimodal AI**
 - 📫 How to reach me: **bbabina005@gmail.com**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision** and **NLP**.
  
