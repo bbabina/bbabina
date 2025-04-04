@@ -1,4 +1,4 @@
-### Hey👋, I'm Babina Banjara !:computer:
+### Hey👋, I'm Babina Banjara
 
 I am a machine learning and deep learning practitioner and learner. I love solving problems and learning a lot in the process.
 When I'm not working on ML projects, you can often find me immersed in writing insightful articles on AI-related topics. 
